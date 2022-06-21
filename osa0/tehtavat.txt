@@ -1,0 +1,4 @@
+Selain->Palvelin: HTTP SEND muistiinpano
+Palvelin->Selain: pyyntö uudelleenohjaukseen ja sivun uudelleen lataukseen
+Selain->Palvelin: HTTP GET Muistiinpanot
+Palvelin->Selain: Muistiinpanot
